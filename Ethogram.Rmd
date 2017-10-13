@@ -1,0 +1,26 @@
+---
+title: "Ethogram"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Southern right whales - Australia 2017
+
+[Write text here about project and embed Rcode below. Use 'knit' to make finished document]
+
+```{r cars}
+summary(cars)
+```
+
+## Plots
+
+[Create plot by adding code below]:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
